@@ -1,0 +1,15 @@
+{
+    "NAME": "Manit Malhotra",
+    "ABOUT_ME": "I am a student , who loves to learn",
+    "LANGUAGES": [
+        "Python",
+        "C++",
+        "JavaScipt",
+        "Java"
+    ],
+    "PROJECTS": [
+        ["assignment_turned_in","YouTube","YouTube is the best video streatming website"],
+        ["assignment_turned_in","Google","It is the best and most popularly used search engine."],
+        ["assignment_turned_in","Gmail","You know about gmail."]
+    ]
+}
